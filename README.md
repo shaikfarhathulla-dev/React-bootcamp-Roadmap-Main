@@ -95,3 +95,23 @@ Welcome to the **Frontend Development Bootcamp**! This repository contains a str
 ---
 
 ## 📁 Folder Structure
+
+---
+
+## 📚 Resources
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [CSS Tricks](https://css-tricks.com/)
+- [JavaScript Info](https://javascript.info/)
+- [React Docs](https://reactjs.org/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
+
+---
+
+## 🚀 Author
+Curated by [Your Name].  
+📧 Contact: your.email@example.com  
+🔗 Portfolio: [your-portfolio-link]
+
+---
+
+> ⭐ Star this repo if you find it helpful!
