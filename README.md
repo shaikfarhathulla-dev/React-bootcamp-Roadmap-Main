@@ -1,107 +1,156 @@
 # Frontend Development Bootcamp 🚀
 
-Welcome to the **Frontend Development Bootcamp**! This repository contains a structured, modern, and beginner-to-advanced curriculum covering **HTML**, **CSS**, **JavaScript**, and **ReactJS**
+Welcome to the **Frontend Development Bootcamp**! This course covers everything from foundational frontend development to modern frameworks like **ReactJS**, including **HTML5**, **CSS3**, **Bootstrap 5**, **JavaScript (ES6+)**, **Git/GitHub**, and **React**.
 
 ---
 
-## 🗂️ Course Modules
-
-### 1. HTML5 (Basics to Advanced)
-- HTML Boilerplate
-- Tags, Elements, and Attributes
-- Forms & Input types
-- Semantic HTML
-- Media Tags (audio, video, iframe)
-- Accessibility (ARIA, alt text, best practices)
-- SEO Basics
-
-### 2. CSS3 (Basics to Advanced)
-- Selectors, Specificity, Box Model
-- Units (px, rem, %, vh/vw)
-- Flexbox, Grid Layout
-- Positioning, Float & Clear
-- Transitions, Animations
-- Pseudo-classes and Pseudo-elements
-- Responsive Design & Media Queries
-- CSS Variables
-- BEM Methodology
-- SCSS (optional bonus)
-
-### 3. JavaScript (ES6+)
-- Syntax, Data Types, Operators
-- DOM Manipulation
-- Events & Event Delegation
-- Functions, Arrow Functions
-- Arrays & Objects
-- Loops, Conditionals
-- Template Literals, Destructuring
-- ES6 Modules
-- Fetch API & Async/Await
-- Promises
-- Error Handling
-- LocalStorage & SessionStorage
-- Modern Tools: ESLint, Prettier, Babel (Intro)
-
-### 3. **Bootstrap 5 (UI Framework)**
-- Introduction to Bootstrap
-- CDN vs Local Installation
-- Grid System & Breakpoints
-- Responsive Utilities
-- Buttons, Alerts, Badges
-- Cards, Navbar, Forms
-- Modal, Carousel, Accordion
-- Customizing Bootstrap via CSS or SASS
-- Bootstrap Icons
-- Integrating Bootstrap with React (React-Bootstrap)
-
-### 4. Version Control (Git & GitHub)
-- Git Basics (init, clone, commit, push, pull)
-- Branching & Merging
-- Pull Requests & Code Review
-- GitHub Pages (Deployment)
-
-### 5. ReactJS (Core + Ecosystem)
-- React Introduction & Why React
-- JSX & Virtual DOM
-- Functional Components & Props
-- useState, useEffect Hooks
-- Event Handling
-- Conditional Rendering
-- List & Keys
-- Forms & Controlled Components
-- Lifting State Up
-- React Router (v6+)
-- Component Lifecycle
-- useRef, useContext
-- Custom Hooks
-- Project Structure Best Practices
-
-### 6. React Project + Deployment
-- React App with Vite or CRA
-- Modular Folder Structure
-- Styling Approaches (CSS Modules, TailwindCSS)
-- Fetching Data from REST API
-- Building Reusable Components
-- Deployment to Netlify/Vercel
+## 📘 Course Curriculum
 
 ---
 
-## 🧠 Bonus Topics (Optional/Advanced)
-- TypeScript with React
-- Redux Toolkit or Zustand (State Management)
-- Unit Testing with Jest & React Testing Library
-- Responsive UI Libraries (Material UI, ShadCN, Chakra UI)
-- Animations with Framer Motion
-- API Integration (OpenWeather, NewsAPI, etc.)
-- Portfolio Project
+### 1. HTML5  
+**Subject Topics & Sub-Topics:**
+- **HTML Basics**: Tags, Elements, Attributes
+- **Structure & Semantics**: `header`, `main`, `section`, `article`, `footer`
+- **Text Formatting**: Headings, Paragraphs, Lists
+- **Links & Navigation**: Anchor Tags, `target`, `rel`
+- **Forms**: Input Types, Labels, Fieldsets, Buttons
+- **Media Elements**: `img`, `audio`, `video`, `iframe`
+- **Tables**: `thead`, `tbody`, `tfoot`, `colspan`, `rowspan`
+- **Meta & SEO Tags**: `meta`, `title`, `description`, `robots`
+- **Accessibility**: `alt`, ARIA roles, labels
 
 ---
 
-## 🛠️ Tools & Environments
-- Code Editor: VS Code
-- Browser: Chrome (DevTools)
-- Terminal (Bash/PowerShell)
-- Package Managers: npm
+### 2. CSS3  
+**Subject Topics & Sub-Topics:**
+- **Selectors**: Basic, Group, Class, ID, Descendant, Pseudo-classes
+- **Box Model**: Margin, Border, Padding, Content
+- **Positioning**: static, relative, absolute, fixed, sticky
+- **Display**: block, inline, inline-block, none
+- **Flexbox**: `justify-content`, `align-items`, `flex-direction`
+- **CSS Grid**: `grid-template`, `grid-gap`, `grid-area`
+- **Units & Measurements**: `px`, `rem`, `em`, `%`, `vh/vw`
+- **Colors & Backgrounds**: RGBA, Gradients, Images
+- **Transitions & Animations**: `transition`, `@keyframes`, `animation`
+- **Media Queries**: Responsive Design Basics
+- **CSS Variables**: `--var`, `var(--name)`
+- **Naming Conventions**: BEM Methodology
+- **Preprocessing**: SCSS intro, nesting, variables, mixins
+
+---
+
+### 3. Bootstrap 5  
+**Subject Topics & Sub-Topics:**
+- **Setup**: CDN, NPM install, file structure
+- **Grid System**: Containers, Rows, Columns, Breakpoints
+- **Utilities**: Margin, Padding, Flex, Display, Colors
+- **Typography**: Headings, Text classes, Alignment
+- **Components**:
+  - Buttons, Alerts, Badges
+  - Cards, Navbars, Breadcrumbs
+  - Forms: Layouts, Validation
+  - Modal, Carousel, Accordion
+- **JavaScript Plugins**: Tooltips, Popovers, Collapse
+- **Icons**: Bootstrap Icons Integration
+- **Customizing Bootstrap**: Overrides, SASS
+
+---
+
+### 4. JavaScript (ES6+)  
+**Subject Topics & Sub-Topics:**
+- **Basics**: Variables (`let`, `const`, `var`), Data Types, Type Coercion
+- **Operators**: Arithmetic, Logical, Comparison
+- **Control Structures**: `if`, `else`, `switch`, `while`, `for`, `do while`
+- **Functions**: Declarations, Expressions, Arrow Functions, IIFE
+- **Arrays & Objects**: Methods (`map`, `filter`, `reduce`), nested structures
+- **DOM Manipulation**: `getElementById`, `querySelector`, `classList`, Events
+- **Event Handling**: `onclick`, `addEventListener`, Delegation
+- **ES6+ Features**:
+  - Template Literals
+  - Destructuring
+  - Spread/Rest Operators
+  - Ternary Operators
+  - Optional Chaining
+- **Asynchronous JS**:
+  - Callbacks
+  - Promises
+  - Async/Await
+  - Fetch API
+- **Storage**: `localStorage`, `sessionStorage`
+- **Tools**: Babel, Prettier, ESLint
+
+---
+
+### 5. Git & GitHub  
+**Subject Topics & Sub-Topics:**
+- **Git Basics**: Install, Config, Init
+- **Staging**: `add`, `commit`, `status`, `.gitignore`
+- **Branching**: `branch`, `checkout`, `merge`, conflict resolution
+- **Remote Repos**: `clone`, `push`, `pull`, `origin`
+- **GitHub Essentials**:
+  - Repositories, README, Issues
+  - Pull Requests
+  - Forking, Star, Watch
+- **Deployment**: GitHub Pages setup
+
+---
+
+### 6. ReactJS  
+**Subject Topics & Sub-Topics:**
+- **Intro & Setup**: CRA vs Vite, Folder Structure
+- **JSX**: Expressions, Fragments, Conditional Rendering
+- **Components**:
+  - Functional Components
+  - Props and Prop Drilling
+  - Composition vs Inheritance
+- **Hooks**:
+  - `useState`, `useEffect`, `useRef`, `useContext`
+  - Custom Hooks
+- **Events & Forms**:
+  - Event Handling (`onClick`, `onChange`)
+  - Controlled Components
+- **Lists & Keys**
+- **Routing**: `react-router-dom`, Nested Routes
+- **State Management**: Lifting State Up
+- **Bootstrap in React**: React-Bootstrap components
+- **Best Practices**:
+  - Code Splitting
+  - Component Reusability
+  - Folder Modularity
+
+---
+
+### 7. React Projects + Deployment  
+**Subject Topics & Sub-Topics:**
+- **React App**: Build from scratch with Vite or CRA
+- **REST API Integration**: Using `fetch` or `axios`
+- **Styling**: TailwindCSS / Bootstrap / CSS Modules
+- **Reusable Components**: Cards, Navbar, Forms
+- **Form Handling**: Validation, Feedback
+- **Deployment**: Netlify, Vercel, GitHub Pages
+
+---
+
+### 8. Bonus (Optional / Advanced)  
+**Subject Topics & Sub-Topics:**
+- **TypeScript with React**: Types, Interfaces, Props Typing
+- **Redux Toolkit**: Slices, Store, Actions, Middleware
+- **Zustand / Context API**: Alternative State Management
+- **Testing**: Jest, React Testing Library, Unit & Integration Tests
+- **UI Libraries**: Material UI, ShadCN, Chakra UI
+- **Animations**: Framer Motion
+- **Portfolio Project**: Multi-page app with resume, projects, contact form
+
+---
+
+## 🛠 Tools & Environment
+- VS Code + Extensions
+- Chrome DevTools
+- Git, GitHub Desktop or CLI
+- Node.js LTS + npm/yarn
+- Prettier, ESLint
+- Live Server / Vite Dev Server
 
 ---
 
