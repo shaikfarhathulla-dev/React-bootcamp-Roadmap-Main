@@ -42,6 +42,18 @@ Welcome to the **Frontend Development Bootcamp**! This repository contains a str
 - LocalStorage & SessionStorage
 - Modern Tools: ESLint, Prettier, Babel (Intro)
 
+### 3. **Bootstrap 5 (UI Framework)**
+- Introduction to Bootstrap
+- CDN vs Local Installation
+- Grid System & Breakpoints
+- Responsive Utilities
+- Buttons, Alerts, Badges
+- Cards, Navbar, Forms
+- Modal, Carousel, Accordion
+- Customizing Bootstrap via CSS or SASS
+- Bootstrap Icons
+- Integrating Bootstrap with React (React-Bootstrap)
+
 ### 4. Version Control (Git & GitHub)
 - Git Basics (init, clone, commit, push, pull)
 - Branching & Merging
@@ -88,13 +100,8 @@ Welcome to the **Frontend Development Bootcamp**! This repository contains a str
 ## 🛠️ Tools & Environments
 - Code Editor: VS Code
 - Browser: Chrome (DevTools)
-- Terminal (Bash/Zsh/PowerShell)
-- Package Managers: npm, yarn
-- Node.js LTS
-
----
-
-## 📁 Folder Structure
+- Terminal (Bash/PowerShell)
+- Package Managers: npm
 
 ---
 
@@ -108,9 +115,9 @@ Welcome to the **Frontend Development Bootcamp**! This repository contains a str
 ---
 
 ## 🚀 Author
-Curated by [Your Name].  
-📧 Contact: your.email@example.com  
-🔗 Portfolio: [your-portfolio-link]
+Curated by Shaik Farhathulla.  
+📧 Contact: shaikfarhathulla.dev@gmail.com  
+🔗 Portfolio: 
 
 ---
 
