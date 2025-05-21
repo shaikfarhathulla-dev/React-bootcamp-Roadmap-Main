@@ -12,9 +12,9 @@ Welcome to the **Frontend Development Bootcamp**! This course covers everything 
 **Subject Topics & Sub-Topics:**
 - **HTML Basics**: Tags, Elements, Attributes
 - **Structure & Semantics**: `header`, `main`, `section`, `article`, `footer`
-- **Text Formatting**: Headings, Paragraphs, Lists
+- **Text Formatting**: Headings, Paragraphs, Lists(`ol`, `ul`, `dl`)
 - **Links & Navigation**: Anchor Tags, `target`, `rel`
-- **Forms**: Input Types, Labels, Fieldsets, Buttons
+- **Forms**: Input Types, Labels, Fieldsets, Buttons, datalist
 - **Media Elements**: `img`, `audio`, `video`, `iframe`
 - **Tables**: `thead`, `tbody`, `tfoot`, `colspan`, `rowspan`
 - **Meta & SEO Tags**: `meta`, `title`, `description`, `robots`
@@ -24,13 +24,15 @@ Welcome to the **Frontend Development Bootcamp**! This course covers everything 
 
 ### 2. CSS3  
 **Subject Topics & Sub-Topics:**
+- **CSS**: Inline, Internal, External
 - **Selectors**: Basic, Group, Class, ID, Descendant, Pseudo-classes
 - **Box Model**: Margin, Border, Padding, Content
+- **Units & Measurements**: `px`, `rem`, `em`, `%`, `vh/vw`
 - **Positioning**: static, relative, absolute, fixed, sticky
 - **Display**: block, inline, inline-block, none
 - **Flexbox**: `justify-content`, `align-items`, `flex-direction`
 - **CSS Grid**: `grid-template`, `grid-gap`, `grid-area`
-- **Units & Measurements**: `px`, `rem`, `em`, `%`, `vh/vw`
+- **Colors**: `Colors`, `RGB`, `HEX`, `HSL`
 - **Colors & Backgrounds**: RGBA, Gradients, Images
 - **Transitions & Animations**: `transition`, `@keyframes`, `animation`
 - **Media Queries**: Responsive Design Basics
