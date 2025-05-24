@@ -80,7 +80,6 @@ Welcome to the **Frontend Development Bootcamp**! This course covers everything 
   - Async/Await
   - Fetch API
 - **Storage**: `localStorage`, `sessionStorage`
-- **Tools**: Babel, Prettier, ESLint
 
 ---
 
