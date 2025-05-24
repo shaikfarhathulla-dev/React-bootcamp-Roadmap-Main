@@ -26,14 +26,14 @@ Welcome to the **Frontend Development Bootcamp**! This course covers everything 
 **Subject Topics & Sub-Topics:**
 - **CSS**: Inline, Internal, External
 - **Selectors**: Basic, Group, Class, ID, Descendant, Pseudo-classes
+- **Display**: block, inline, inline-block
 - **Box Model**: Margin, Border, Padding, Content
 - **Units & Measurements**: `px`, `rem`, `em`, `%`, `vh/vw`
-- **Positioning**: static, relative, absolute, fixed, sticky
-- **Display**: block, inline, inline-block, none
-- **Flexbox**: `justify-content`, `align-items`, `flex-direction`
-- **CSS Grid**: `grid-template`, `grid-gap`, `grid-area`
 - **Colors**: `Colors`, `RGB`, `HEX`, `HSL`
 - **Colors & Backgrounds**: RGBA, Gradients, Images
+- **Positioning**: static, relative, absolute, fixed, sticky
+- **Flexbox**: `justify-content`, `align-items`, `flex-direction`
+- **CSS Grid**: `grid-template`, `grid-gap`, `grid-area`
 - **Transitions & Animations**: `transition`, `@keyframes`, `animation`
 - **Media Queries**: Responsive Design Basics
 - **CSS Variables**: `--var`, `var(--name)`
