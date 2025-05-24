@@ -167,7 +167,7 @@ Welcome to the **Frontend Development Bootcamp**! This course covers everything 
 ## 🚀 Author
 Curated by Shaik Farhathulla.  
 📧 Contact: shaikfarhathulla.dev@gmail.com  
-🔗 Portfolio: https://shaikfarhathulla-dev.github.io/portfolio/
+🔗 Portfolio: [Link](https://shaikfarhathulla-dev.github.io/portfolio/)
 
 ---
 
