@@ -104,7 +104,7 @@ Welcome to the **Frontend Development Bootcamp**! This course covers everything 
 - **Components**:
   - Functional Components
   - Props and Prop Drilling
-  - Composition vs Inheritance
+  - Composition
 - **Hooks**:
   - `useState`, `useEffect`, `useRef`, `useContext`
   - Custom Hooks
