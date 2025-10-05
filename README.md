@@ -105,14 +105,20 @@ Welcome to the **Frontend Development Bootcamp**! This course covers everything 
   - Functional Components
   - Props and Prop Drilling
   - Composition
-- **Hooks**:
-  - `useState`, `useEffect`, `useRef`, `useContext`
-- **Events & Forms**:
-  - Event Handling (`onClick`, `onChange`)
-  - Controlled Components
-- **Lists & Keys**
 - **Routing**: `react-router-dom`, Nested Routes
+- **Hooks**: `useState`
 - **State Management**: Lifting State Up
+- **Events & Forms**:
+  - Event Handling (`onClick`, `onChange`, `event`)
+- **React-hook-form**:
+  - Controlled and validations
+- **Props and Prop Drilling**
+- **Hooks**: `useEffect`
+- **Hooks**: `useRef`
+- **Hooks**: `useContext`
+- **Axios**: API Calls (GET, POST, DELETE, PUT)
+- **Bootstrap in React**
+- **Lazy Loadind**
 - **Best Practices**:
   - Code Splitting
   - Component Reusability
