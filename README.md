@@ -65,7 +65,10 @@ Welcome to the **Frontend Development Bootcamp**! This course covers everything 
 - **Operators**: Arithmetic, Logical, Comparison
 - **Control Structures**: `if`, `else`, `switch`, `while`, `for`, `do while`
 - **Functions**: Declarations, Expressions, Arrow Functions, IIFE
-- **Arrays & Objects**: Methods (`map`, `filter`, `reduce`), nested structures
+- **Arrays & Objects**:
+  - List Methods (`map`, `filter`, `reduce`, `sort`)
+  - nested array and objects
+  - Object Manipulation (`Object.keys`, `Object.values`, `Object.entries`)
 - **DOM Manipulation**: `getElementById`, `querySelector`, `classList`, Events
 - **Event Handling**: `onclick`, `addEventListener`, Delegation
 - **ES6+ Features**:
@@ -80,6 +83,14 @@ Welcome to the **Frontend Development Bootcamp**! This course covers everything 
   - Async/Await
   - Fetch API
 - **Storage**: `localStorage`, `sessionStorage`
+- **Advanced JS**:
+  - Closures
+  - Hoisting (variable & function hoisting)
+  - Scope (block, function, global)
+  - The this keyword
+- **Modules (ES6)**:
+  - `import` & `export`
+  - Named vs Default Exports
 
 ---
 
