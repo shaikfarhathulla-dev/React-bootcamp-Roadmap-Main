@@ -99,30 +99,53 @@ Welcome to the **Frontend Development Bootcamp**! This course covers everything 
 
 ### 6. ReactJS  
 **Subject Topics & Sub-Topics:**
-- **Intro & Setup**: CRA vs Vite, Folder Structure
-- **JSX**: Expressions, Fragments, Conditional Rendering
+- **Intro & Setup**: CRA vs Vite, Folder Structure (`src`, `public`, `App.jsx`, `index.js`)
+- **JSX**: Expressions, Fragments, Conditional Rendering(`if`, ternary, `&&`)
 - **Components**:
   - Functional Components
-  - Props and Prop Drilling
-  - Composition
-- **Routing**: `react-router-dom`, Nested Routes
+- **Routing**: `react-router-dom`, Nested Routes, Protected Routes (Authentication basics with JWT)
 - **Hooks**: `useState`
-- **State Management**: Lifting State Up
 - **Events & Forms**:
   - Event Handling (`onClick`, `onChange`, `event`)
 - **React-hook-form**:
   - Controlled and validations
 - **Props and Prop Drilling**
+  - Component Composition
 - **Hooks**: `useEffect`
 - **Hooks**: `useRef`
-- **Hooks**: `useContext`
-- **Axios**: API Calls (GET, POST, DELETE, PUT)
+- **Hooks**: `useContext`, `useReducer` (mini Redux style)
+- **Axios**:
+  - API Calls (GET, POST, DELETE, PUT)
+  - Error handling
+  - Using `.env` files for API keys & config
 - **Bootstrap in React**
-- **Lazy Loadind**
-- **Best Practices**:
+- **Performance Optimization**
+  - Lazy Loading
   - Code Splitting
-  - Component Reusability
-  - Folder Modularity
+  - `useCallback`, `useMemo` (performance tuning)
+- **React Dev Tools**:
+  - Inspecting components
+  - Debugging props & state
+  - Performance monitoring
+- **State Management**:
+  - Lifting State Up (sharing state between components)
+  - External State Libraries (when scaling apps)
+    - Redux Toolkit
+- **Error Handling**:
+  - Error Boundaries (catch UI crashes)
+  - Graceful fallback UIs
+- **Testing (Basics)**:
+  - React Testing Library (RTL)
+  - Rendering components in tests
+  - Snapshot Testing
+  - Simple form & button click tests
+- **Deployment**:
+  - Build optimization
+  - Hosting on:
+    - Netlify
+    - Vercel
+    - GitHub Pages
+  - Environment-specific configs
 
 ---
 
